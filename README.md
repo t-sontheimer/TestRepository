@@ -2,6 +2,8 @@
 
 Mit diesem Projekt können Sie gern git üben.
 
+Gleichzeitig können Sie sich mit MarkDown vertraut machen:
+
 Die wichtigsten markdown-Befehle finden Sie hier:
 [MarkDown-Kurzübersicht](https://www.markdownguide.org/cheat-sheet/)
 
